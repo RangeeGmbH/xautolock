@@ -1,4 +1,4 @@
-xautolock (1:2.2-5.1-0rangee1) rangeeos; urgency=medium
+xautolock (1:2.2-5.1-0rangeeos1) rangeeos; urgency=medium
 
   * Set maximum idle time to 24h/1440mins
 
